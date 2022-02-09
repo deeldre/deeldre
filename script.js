@@ -1,9 +1,9 @@
 function cycleImage(){
-	delayInSeconds = 10;
+	delayInSeconds = 2;
 	var rotator = document.getElementById('rotator');
 	var imageDir = "images/";
 
-	var images = ["old_man_1", "old_man_2"];
+	var images = ["old_man_1", "old_man_2", "old_man_3", "old_man_4", "old_man_5", "old_woman_1", "old_woman_2", "old_woman_3"];
 
 	var num = 0;
 	var changeImage = function(){
@@ -27,6 +27,7 @@ const observer = new IntersectionObserver(entries => {
 observer.observe(document.querySelector('.quote p'));
 observer.observe(document.querySelector('.quote b'));
 observer.observe(document.querySelector('.information p'));
+observer.observe(document.querySelector('.information_media p'));
 observer.observe(document.querySelector('.wingding'));
 
 
