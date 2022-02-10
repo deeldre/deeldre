@@ -158,7 +158,7 @@ img{
 }
 
 .img_container {
-	height: 50vh;
+	height: 400px;
 	top: 20vh;
 	bottom: 0;
 	animation: 1.5s ease-out 0s 1 slideInFromBottom;
