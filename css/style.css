@@ -57,6 +57,14 @@ sup{
 	padding: 20vh 10vw 20vh 10vw;
 }
 
+.information_final{
+	/*background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 20%, rgba(0,0,0,1) 80%, rgba(255,255,255,0) 100%);*/
+	color: black;
+	margin-top: -20vh;
+	text-align: center;
+	padding: 20vh 10vw 20vh 10vw;
+}
+
 .smalltext{
 	padding: 20vh 0 20vh 0;
 	text-align: center;
