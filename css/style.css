@@ -1,7 +1,7 @@
 html, body {
 	height: 100%;
 	margin: 0;
-	font-family: "Kozuka Gothic Pro", Kozuka, sans-serif;
+	font-family: "Kozuka Gothic Pro", Kozuka, sans-serif;*/
 }
 
 h2{
@@ -80,6 +80,7 @@ sup{
 .metaphors{
 	display:flex;
 	flex-direction: column;
+	height: 80vh;
 	align-items: space-between;
 	padding: 15vh 0 20vh 0;
 	text-align: center;
