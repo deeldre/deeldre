@@ -29,7 +29,7 @@ observer.observe(document.querySelector('.quote b'));
 observer.observe(document.querySelector('.information p'));
 observer.observe(document.querySelector('.information_media p'));
 observer.observe(document.querySelector('.information_neuroplasticity p'));
-observer.observe(document.querySelector('.information_final p'));
+observer.observe(document.querySelector('.information_final h3'));
 observer.observe(document.querySelector('.wingding'));
 
 
