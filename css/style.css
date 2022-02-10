@@ -1,7 +1,12 @@
 html, body {
 	height: 100%;
 	margin: 0;
-	font-family: "Kozuka Gothic Pro", Kozuka, sans-serif;
+	font-family: "Roboto Thin 100", Roboto, sans-serif;
+	font-weight: 100;
+}
+
+b{
+	font-weight: 400;
 }
 
 h2{
