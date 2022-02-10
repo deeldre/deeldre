@@ -79,9 +79,7 @@ sup{
 
 .metaphors{
 	display:flex;
-	flex-direction: column;
-	height: 80vh;
-	align-items: space-between;
+	height: 60vh;
 	padding: 15vh 0 20vh 0;
 	text-align: center;
 	color: white;
@@ -90,11 +88,12 @@ sup{
 }
 
 .metaphors p{
+	bottom: 0;
 	font-size: 15px;
 }
 
 .metaphors .wingding p{
-	font-size: 80px;
+	font-size: 100px;
 }
 
 .media_container{
