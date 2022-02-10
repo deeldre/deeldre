@@ -1,7 +1,7 @@
 html, body {
 	height: 100%;
 	margin: 0;
-	font-family: "Kozuka Gothic Pro", Kozuka, sans-serif;*/
+	font-family: "Kozuka Gothic Pro", Kozuka, sans-serif;
 }
 
 h2{
@@ -94,7 +94,7 @@ sup{
 }
 
 .metaphors .wingding p{
-	font-size: 100px;
+	font-size: 80px;
 }
 
 .media_container{
